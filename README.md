@@ -11,7 +11,7 @@
 
 ### `whoami`
 > Entry-level penetration tester | CTF enthusiast | Always in the lab
-This is all AI, sucks
+
 
 </div>
 
